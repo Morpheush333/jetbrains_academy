@@ -1,8 +1,8 @@
-package com.mateuszmedon.projectone.testproject;
+package com.mateuszmedon.projectone.preetypattern;
 
-import java.util.*;
+import java.util.Scanner;
 
-public class Test {
+public class Pattern {
 
     static Scanner scanner = new Scanner(System.in);
 
